@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "dd-sdk-swift-testing",
+        "repositoryURL": "https://github.com/DataDog/dd-sdk-swift-testing",
+        "state": {
+          "branch": null,
+          "revision": "ff686c8eb96c1c95d52fe4888c864abd5ba81362",
+          "version": "0.9.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
