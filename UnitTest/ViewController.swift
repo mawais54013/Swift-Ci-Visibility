@@ -30,5 +30,3 @@ class ViewController: UIViewController {
 //-scheme UnitTest \
 //-destination platform=iOS\ Simulator,name=iPhone\ 12\ Pro \
 //test
-
-//testing file 
