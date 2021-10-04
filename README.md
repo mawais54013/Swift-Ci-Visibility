@@ -15,10 +15,6 @@ tvOS >= 11.0
 
 
 ## Prerequisites
- [Install the Datadog Agent to collect tests data](https://docs.datadoghq.com/continuous_integration/setup_tests/agent/?tab=azurepipelines)
-
- <br/>
-
 [Install the iOS SDK](https://docs.datadoghq.com/continuous_integration/setup_tests/swift/?tab=swiftpackagemanager#installing-the-swift-testing-sdk) 
 
 Setup:
